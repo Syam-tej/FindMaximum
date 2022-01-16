@@ -36,8 +36,17 @@ def max_marks(list1):
     return max_mark
 ```
 ## Sample Input and Output
-## (i) ![output](./img/max_marks1.jpg) 
-## (ii) ![output](./img/max_marks2.jpg) 
+### (i) 
+![output](./img/max_marks1.jpg) 
+
+### (ii) 
+![output](mark2.png) 
+
+### (iii) 
+![output](mark3.png) 
+
+### OUTPUT:
+![output](./img/max_marks2.jpg) 
 
 ## Output:
 
